@@ -3,7 +3,6 @@
 👋 Hi, I'm **Yamini G**, a results-driven **Business Analyst** passionate about turning data into business insights that support decision-making.  
 With an **MBA in Business Administration** and hands-on experience in **Planning, Marketing, and Sales**, I bring both **business acumen** and **data analytics skills** to every project.
 
----
 
 ## 🧭 About Me  
 🎓 **Education:** MBA & B.Com (Computer Applications)  
