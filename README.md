@@ -19,7 +19,7 @@ With an **MBA in Business Administration** and hands-on experience in **Planning
 🎵 *The Rhythm of Insight: Visualizing Music Trends*  
 - Created a Power BI dashboard using Spotify data to analyze top artists, genres, and user engagement.  
 - Provided insights into global listening behavior and trends.  
-📁 [`PowerBI-Spotify-Analytics`]
+📁 [`PowerBI-Spotify-Analytics`]  https://drive.google.com/drive/folders/1Tu6JlvvfA2WewZEU-ffLgblSskgsqtsT?usp=sharing 
 
 ---
 
@@ -27,7 +27,7 @@ With an **MBA in Business Administration** and hands-on experience in **Planning
 📈 *Employess Attrition Analysis*  
 - Designed Excel dashboards using PivotTables and Charts to visualize KPIs.  
 - Summarized Attrition by Education, Gender, Job Role, Department, Marital status, Age gap and Employees performance for the growth of organization.  
-📁 [`Excel-Business-Insights`]
+📁 [`Excel-Business-Insights`] https://drive.google.com/drive/folders/1xpr4akmUJwPj4jVXrBUI53sUzV0mHxCW?usp=sharing 
 
 ---
 
@@ -35,7 +35,7 @@ With an **MBA in Business Administration** and hands-on experience in **Planning
 💡 *Improving Retention through Data Insights*  
 - Analyzed customer churn data and proposed retention strategies.  
 - Combined analytical thinking with business recommendations.  
-📁 [`Customer-Retention-Strategy`]
+📁 [`Customer-Retention-Strategy`] https://drive.google.com/drive/folders/151qCThBxhgr8z088e9S19OvcCw1SY853?usp=sharing
 
 ---
 
