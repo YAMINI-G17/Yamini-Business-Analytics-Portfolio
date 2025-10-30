@@ -1,4 +1,4 @@
-# 💼 Yamini's Business Analytics Portfolio  
+`# 💼 Yamini's Business Analytics Portfolio  
 
 👋 Hi, I'm **Yamini G**, a results-driven **Business Analyst** passionate about turning data into business insights that support decision-making.  
 With an **MBA in Business Administration** and hands-on experience in **Planning, Marketing, and Sales**, I bring both **business acumen** and **data analytics skills** to every project.
@@ -26,7 +26,7 @@ With an **MBA in Business Administration** and hands-on experience in **Planning
 📈 *Employess Attrition Analysis*  
 - Designed Excel dashboards using PivotTables and Charts to visualize KPIs.  
 - Summarized Attrition by Education, Gender, Job Role, Department, Marital status, Age gap and Employees performance for the growth of organization.  
-📁 [`Excel-Business-Insights`] https://drive.google.com/drive/folders/1xpr4akmUJwPj4jVXrBUI53sUzV0mHxCW?usp=sharing 
+📁 [`Excel-Business-Insights`] https://drive.google.com/drive/folders/1zh8_0qBjq4TuAw_KU_ffpabXq7a-dGMH?usp=sharing 
 
 ---
 
